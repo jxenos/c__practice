@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tempconverter.dir/main.cpp.o  -o tempconverter 
